@@ -3,5 +3,5 @@
 ## Usage
 
 ```shell
-./paper-downloader.sh <Version>
+curl https://github.com/sya-ri/paper-downloader/raw/master/paper-downloader.sh -s | bash -s -- <Version>
 ```
