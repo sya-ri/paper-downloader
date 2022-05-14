@@ -1,5 +1,9 @@
 # paper-downloader
 
+## Requirements
+
+- `jq`
+
 ## Usage
 
 ```shell
